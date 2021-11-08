@@ -1,4 +1,4 @@
-let timerElement = document.getElementById("timer")
+const timerElement = document.getElementById("timer")
 
 timerElement.textContent = Number(timerElement.textContent);
 
