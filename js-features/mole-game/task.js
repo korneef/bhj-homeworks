@@ -21,7 +21,3 @@ for (i = 1; i < 10; i++) {
         };
     };
 };
-
-if (dead.textContent == 10) {
-    alert = 'you win'
-};
