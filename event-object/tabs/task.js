@@ -12,5 +12,5 @@ function eventToClick () {
 
         document.querySelectorAll('.tab__content')[oldActiveTabItem].className = 'tab__content';
         document.querySelectorAll('.tab__content')[tabNavigationElements.indexOf(this)].className = 'tab__content tab__content_active';
-    }
+    };
 }
